@@ -62,4 +62,6 @@
   <img align="center" alt="vuejs" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=e4bf7a&height=200&width=100%&section=footer&animation=fadeIn)
+<br /><br />
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=e4bf7a&height=150&width=100%&section=footer&animation=fadeIn)
