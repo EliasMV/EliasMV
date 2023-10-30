@@ -62,11 +62,4 @@
   <img align="center" alt="vuejs" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
 </div>
 
-<div align="center">
-  <br />
-  <p align="center"><b>Profile Visitors Count</b></p>
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{EliasMV}/count.svg" /></p> 
-  <br />
-</div>
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=e4bf7a&height=200&width=100%&section=footer&animation=fadeIn)
